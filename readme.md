@@ -1,4 +1,4 @@
-## Function Print
+## Function Print (CTRL+P)
 
 if you use print use Custom <strong>More Option</strong>
 1. Paper Size: <strong>A4</strong>
